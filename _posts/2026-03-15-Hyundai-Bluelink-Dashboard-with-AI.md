@@ -18,7 +18,7 @@ category: blog
 author: hsj00
 externalLink: true
 published: true
-comments: true
+giscus_comments: true
 share: true
 ---
 투싼을 타면서 블루링크 앱을 쓰다가 문득 든 생각이 있었다.

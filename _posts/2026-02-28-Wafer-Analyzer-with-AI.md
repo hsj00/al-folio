@@ -14,7 +14,7 @@ category: blog
 author: hsj00
 externalLink: true
 published: true
-comments: true
+giscus_comments: true
 share: true
 ---
 업무에서 반도체 공정 데이터를 다룰 일이 많은데, 매번 Excel이나 사내 툴에 의존하는 게 불편했다.

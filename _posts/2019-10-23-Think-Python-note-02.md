@@ -16,7 +16,7 @@ category: blog
 author: hsj00
 externalLink: true
 published: true
-comments: true
+giscus_comments: true
 share: true
 use_math: true
 ---

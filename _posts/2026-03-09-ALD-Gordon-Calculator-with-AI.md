@@ -17,7 +17,7 @@ category: blog
 author: hsj00
 externalLink: true
 published: true
-comments: true
+giscus_comments: true
 share: true
 ---
 업무에서 ALD 공정을 다루다 보면 항상 하는 질문이 있다.

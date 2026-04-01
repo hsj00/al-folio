@@ -15,7 +15,7 @@ description: 240312 `Python coding - sequence calculation`
 category: blog
 author: hsj00
 published: true
-comments: true
+giscus_comments: true
 share: true
 use_math: false
 toc: false

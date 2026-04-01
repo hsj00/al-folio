@@ -22,7 +22,7 @@ category: blog
 author: hsj00
 externalLink: true
 published: true
-comments: true
+giscus_comments: true
 share: true
 ---
 반도체 공정에서 몰리브덴(Mo) ALD 관련 특허 동향을 파악할 일이 생겼다.
