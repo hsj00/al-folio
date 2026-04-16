@@ -153,7 +153,9 @@ def length(self):
 
 여기까지 읽은김에 [예제에 사용한 동영상]이 뭔지 한 번 봅시다.
 
-{% include youtube.html id="QTjZJzYWzEU" %}
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/QTjZJzYWzEU" allowfullscreen></iframe>
+</div>
 
 ~~(여자)아이들 최고 ㅠㅠ....~~
 
