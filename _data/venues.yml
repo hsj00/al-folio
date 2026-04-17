@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"Chemistry of Materials":
+  url: https://pubs.acs.org/journal/cmatex
+  color: "#b02a30"
+
+"Nanoscale":
+  url: https://pubs.rsc.org/en/journals/journalissues/nr
+  color: "#1a5490"
