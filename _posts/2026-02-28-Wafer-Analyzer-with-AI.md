@@ -30,7 +30,14 @@ CSV 파일 하나 불러서 웨이퍼 맵 한 번 보려면 손이 많이 갔다
 
 `Streamlit`을 기반으로 한 웹 앱이다. CSV 또는 Excel 파일을 업로드하면 브라우저에서 즉시 웨이퍼 맵을 시각화하고 분석할 수 있다. 설치 없이 Streamlit Community Cloud에 배포해두면 URL 하나로 누구나 접근할 수 있다.
 
-![웨이퍼 맵 분석기 스크린샷](/assets/images/posts/2026-02-28/wafer-analyzer.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/images/posts/2026-02-28/wafer-analyzer.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    웨이퍼 맵 분석기 스크린샷
+</div>
 
 주요 기능은 총 6개 탭으로 구성했다:
 

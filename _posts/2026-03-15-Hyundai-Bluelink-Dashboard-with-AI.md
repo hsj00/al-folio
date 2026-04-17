@@ -24,7 +24,14 @@ share: true
 투싼을 타면서 블루링크 앱을 쓰다가 문득 든 생각이 있었다.
 "현대자동차가 Developers API를 공개해놨으니 Claude를 이용하면 내 차량 정보를 한 눈에 확인할 수 있는 dashboard를 만들 수 있지 않을까?"
 
-![Dashboard 스크린샷](/assets/images/posts/2026-03-15/dashboard.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/images/posts/2026-03-15/dashboard.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Dashboard 스크린샷
+</div>
 
 ---
 
