@@ -29,8 +29,8 @@ cv:
         start_date: 2015
         end_date: 2017
         score: ""
-        courses: "Thin Film Engineering, Characterization of Organic Nano Thin Film, Engineering of Semiconductor Devices, Advanced Instrumental Analyses, Solid State Chemistry"
         highlights:
+          - "Thin Film Engineering, Characterization of Organic Nano Thin Film, Engineering of Semiconductor Devices, Advanced Instrumental Analyses, Solid State Chemistry"
           - "Advisor: Prof. Yo-Sep Min"
           - "Research topic: Characterization and Growth of ZnO Thin Films by Atomic Layer Deposition"
           - "Investigated 1,5-pentanediol as an oxygen precursor for the ALD of ZnO thin films"
@@ -84,7 +84,7 @@ cv:
           - "IP: Managed monthly IP expenses and quarterly job-invention reward settlements"
 
     Publications:
-      - title: "1,5-pentanediol as an oxygen precursor for atomic layer deposition of zinc oxide thin films"
+      title: "1,5-pentanediol as an oxygen precursor for atomic layer deposition of zinc oxide thin films"
         authors:
           - "Seung-Joo Han"
           - "Seokhee Shin"
@@ -125,56 +125,56 @@ cv:
       - title: "Residual Amount Measurement Structure of Liquid Cartridge Applied in Portable Aerosol Forming Apparatus (GRANTED, KR 10-2291246)"
         authors:
           - "Seungjoo Han et al."
-        date: 2021-08
+        releaseDate: 2021-08
         awarder: "Korean Intellectual Property Office"
         summary: "Granted Korean patent (Application No. 1020190110595, filed 2019-09-06)."
 
       - title: "A Microparticle Generator Sterilization System"
         authors:
           - "Seungjoo Han et al."
-        date: 2019-08-19
+        releaseDate: 2019-08-19
         summary: "Application No. 1020190100956"
 
       - title: "A Vaporizing Part of a Microparticle Generator"
         authors:
           - "Seungjoo Han et al."
-        date: 2019-12-20
+        releaseDate: 2019-12-20
         summary: "Application No. 1020190171423"
 
       - title: "Aerosol Generating Apparatus for Electrically-Heating Type Smoking Article"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-10-04
+        releaseDate: 2022-10-04
         summary: "Application Nos. 1020220126664 and 1020220126646"
 
       - title: "Electrically-Heating Type Smoking Article Including Liquid Cartridge"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-10-04
+        releaseDate: 2022-10-04
         summary: "Application No. 1020220126644"
 
       - title: "Gel State Aerosol Generating Medium Cartridge Insertable into Electrically-Heating Type Smoking Article"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-10-04
+        releaseDate: 2022-10-04
         summary: "Application No. 1020220126663"
 
       - title: "Liquid Cartridge Insertable into Electrically-Heating Type Smoking Article"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-10-04
+        releaseDate: 2022-10-04
         summary: "Application No. 1020220126645"
 
       - title: "Electrically-Heating Type Smoking Article Including Gel State Aerosol Generating Medium Cartridge"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-10-04
+        releaseDate: 2022-10-04
         summary: "Application No. 1020220126662"
 
       - title: "Aerosol Generating System for Electrically-Heating Type Smoking Article"
         authors:
           - "Seungjoo Han et al."
-        date: 2022-11-02
+        releaseDate: 2022-11-02
         summary: "Application No. 1020220144211"
 
     Awards:
@@ -191,13 +191,6 @@ cv:
         date: 2022-08
         awarder: ASM
         summary: "Fully supported Mo JDP tool to solve the HW & Process problems"
-
-      - title: "Patent Grant (KR 10-2291246)"
-        authors:
-          - "Korean Intellectual Property Office"
-        date: 2021-08
-        awarder: "Korean Intellectual Property Office"
-        summary: "Granted patent for portable aerosol-forming device technology."
 
     Projects:
       - name: "ZnO Thin Film ALD with 1,5-pentanediol (M.S. Thesis)"
@@ -234,16 +227,16 @@ cv:
 
     Relevant Coursework:
       - name: "Thin Film Engineering (2015)"
-        summary: "Vacuum deposition techniques, structure, properties, and applications of thin films."
+        highlights: "Vacuum deposition techniques, structure, properties, and applications of thin films."
 
       - name: "Characterization of Organic Nano Thin Film (2014)"
-        summary: "Analytical methods for organic materials and thin films, including vacuum coating techniques."
+        highlights: "Analytical methods for organic materials and thin films, including vacuum coating techniques."
 
       - name: "Engineering of Semiconductor Devices (2014)"
-        summary: "Semiconductor physics, device operating principles, and fabrication processes."
+        highlights: "Semiconductor physics, device operating principles, and fabrication processes."
 
       - name: "Advanced Instrumental Analyses (2014)"
-        summary: "Principles of analytical methods, sample preparation, and data interpretation."
+        highlights: "Principles of analytical methods, sample preparation, and data interpretation."
 
       - name: "Solid State Chemistry (2013)"
-        summary: "Crystal structure, atomic bonding, crystal defects, phase diagrams, and synthesis."
+        highlights: "Crystal structure, atomic bonding, crystal defects, phase diagrams, and synthesis."
