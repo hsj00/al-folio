@@ -499,11 +499,11 @@ ninja.data = [{
             window.location.href = "/blog/2019/jekyll-indigo-theme-install/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-나는-왜-사랑할수록-불안해질까",
+          title: '나는 왜 사랑할수록 불안해질까',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/anxious_in_love/";
             },},{id: "news-graduated-with-a-bachelor-s-degree-in-chemical-engineering",
           title: 'Graduated with a Bachelor’s degree in Chemical Engineering 🎓',
           description: "",
