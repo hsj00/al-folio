@@ -85,7 +85,7 @@ cv:
           - "IP: Managed monthly IP expenses and quarterly job-invention reward settlements"
 
     Publications:
-      title: "1,5-pentanediol as an oxygen precursor for atomic layer deposition of zinc oxide thin films"
+      - title: "1,5-pentanediol as an oxygen precursor for atomic layer deposition of zinc oxide thin films"
         authors:
           - "Seung-Joo Han"
           - "Seokhee Shin"
@@ -98,7 +98,7 @@ cv:
         releaseDate: 2017
         summary: "First-author SCI publication demonstrating 1,5-pentanediol as a novel oxygen precursor for ALD of ZnO thin films."
 
-      title: "Highly uniform and vertically aligned SnO2 nanochannel arrays for photovoltaic applications"
+      - title: "Highly uniform and vertically aligned SnO2 nanochannel arrays for photovoltaic applications"
         authors:
           - "Jae-Yup Kim"
           - "Jin Soo Kang"
@@ -112,7 +112,7 @@ cv:
         publisher: "Nanoscale, 7, 8368"
         releaseDate: 2015
 
-      title: "Novel chemical route for atomic layer deposition of MoS2 thin film on SiO2/Si substrate"
+      - title: "Novel chemical route for atomic layer deposition of MoS2 thin film on SiO2/Si substrate"
         authors:
           - "Zhenyu Jin"
           - "Seokhee Shin"
