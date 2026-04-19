@@ -130,53 +130,53 @@ cv:
         awarder: "Korean Intellectual Property Office"
         summary: "Granted Korean patent (Application No. 1020190110595, filed 2019-09-06)."
 
-      - title: "A Microparticle Generator Sterilization System"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2019-08-19
-        summary: "Application No. 1020190100956"
+    #  - title: "A Microparticle Generator Sterilization System"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2019-08-19
+    #    summary: "Application No. 1020190100956"
 
-      - title: "A Vaporizing Part of a Microparticle Generator"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2019-12-20
-        summary: "Application No. 1020190171423"
+    #  - title: "A Vaporizing Part of a Microparticle Generator"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2019-12-20
+    #    summary: "Application No. 1020190171423"
 
-      - title: "Aerosol Generating Apparatus for Electrically-Heating Type Smoking Article"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-10-04
-        summary: "Application Nos. 1020220126664 and 1020220126646"
+    #  - title: "Aerosol Generating Apparatus for Electrically-Heating Type Smoking Article"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-10-04
+    #    summary: "Application Nos. 1020220126664 and 1020220126646"
 
-      - title: "Electrically-Heating Type Smoking Article Including Liquid Cartridge"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-10-04
-        summary: "Application No. 1020220126644"
+    #  - title: "Electrically-Heating Type Smoking Article Including Liquid Cartridge"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-10-04
+    #    summary: "Application No. 1020220126644"
 
-      - title: "Gel State Aerosol Generating Medium Cartridge Insertable into Electrically-Heating Type Smoking Article"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-10-04
-        summary: "Application No. 1020220126663"
+    #  - title: "Gel State Aerosol Generating Medium Cartridge Insertable into Electrically-Heating Type Smoking Article"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-10-04
+    #    summary: "Application No. 1020220126663"
 
-      - title: "Liquid Cartridge Insertable into Electrically-Heating Type Smoking Article"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-10-04
-        summary: "Application No. 1020220126645"
+    #  - title: "Liquid Cartridge Insertable into Electrically-Heating Type Smoking Article"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-10-04
+    #    summary: "Application No. 1020220126645"
 
-      - title: "Electrically-Heating Type Smoking Article Including Gel State Aerosol Generating Medium Cartridge"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-10-04
-        summary: "Application No. 1020220126662"
+    #  - title: "Electrically-Heating Type Smoking Article Including Gel State Aerosol Generating Medium Cartridge"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-10-04
+    #    summary: "Application No. 1020220126662"
 
-      - title: "Aerosol Generating System for Electrically-Heating Type Smoking Article"
-        authors:
-          - "Seungjoo Han et al."
-        releaseDate: 2022-11-02
-        summary: "Application No. 1020220144211"
+    #  - title: "Aerosol Generating System for Electrically-Heating Type Smoking Article"
+    #    authors:
+    #      - "Seungjoo Han et al."
+    #    releaseDate: 2022-11-02
+    #    summary: "Application No. 1020220144211"
 
     Awards:
       - title: "Spot Award"
