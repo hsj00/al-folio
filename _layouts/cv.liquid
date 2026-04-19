@@ -157,9 +157,28 @@ layout: default
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
-              {% elsif section_title == 'Publications' %}
+              {% elsif section_title == 'Publications' or section_title == 'Patents' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
+              {% elsif section_title == 'Relevant Coursework' or section_title == 'Coursework' %}
+                <ul class="card-text font-weight-light list-group list-group-flush">
+                  {% for entry in section_entries %}
+                    <li class="list-group-item">
+                      {% if entry.name %}<strong>{{ entry.name }}</strong>{% endif %}
+                      {% if entry.highlights %}
+                        {% if entry.highlights.first and entry.highlights.first != entry.highlights %}
+                          <ul class="mb-0">
+                            {% for h in entry.highlights %}
+                              <li>{{ h | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+                            {% endfor %}
+                          </ul>
+                        {% else %}
+                          <p class="mb-0">{{ entry.highlights | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+                        {% endif %}
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                </ul>
               {% elsif section_title == 'Skills' %}
                 {% assign entries = section_entries %}
                 {% include cv/skills.liquid %}
