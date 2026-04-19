@@ -34,6 +34,7 @@ cv:
           - "Advisor: Prof. Yo-Sep Min"
           - "Research topic: Characterization and Growth of ZnO Thin Films by Atomic Layer Deposition"
           - "Investigated 1,5-pentanediol as an oxygen precursor for the ALD of ZnO thin films"
+          - "Coursework in semiconductor device fundamentals and instrumental analysis"
 
       - institution: Konkuk University
         location: Seoul, South Korea
@@ -43,11 +44,11 @@ cv:
         start_date: 2010
         end_date: 2014
         highlights:
-          - "Coursework in semiconductor device fundamentals and instrumental analysis"
+          - "Working as an undergraduate research assistant"
 
     Experience:
       - company: Wonik IPS
-        position: Metal Process Development Engineer
+        position: Process Development Engineer
         location: Pyeongtaek-si, South Korea
         start_date: 2025-07
         end_date: present
