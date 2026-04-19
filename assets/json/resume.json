@@ -3,7 +3,7 @@
     "name": "Seungjoo Han",
     "label": "Process Development Engineer",
     "image": "",
-    "email": "cmdsjhan@gmail.com",
+    "email": "seungjoohan@outlook.kr",
     "phone": "",
     "summary": "A dedicated chemical engineer with a strong background in characterization and thin film deposition using ALD. Holding a master's degree from Konkuk University and several years of hands-on experience in research and industry, with a robust skill set in material analysis, IP administration, and project management. SCI-indexed publications and multiple recognitions for research contributions. Passionate about innovation and continuous learning.",
     "location": {
@@ -29,7 +29,7 @@
   "work": [
     {
       "name": "Wonik IPS",
-      "position": "Metal Process Development Engineer",
+      "position": "Process Development Engineer",
       "location": "Pyeongtaek-si, South Korea",
       "startDate": "2025-07-01",
       "endDate": "",
@@ -88,7 +88,8 @@
       "highlights": [
         "Advisor: Prof. Yo-Sep Min",
         "Research topic: Characterization and Growth of ZnO Thin Films by Atomic Layer Deposition",
-        "Investigated 1,5-pentanediol as an oxygen precursor for the ALD of ZnO thin films"
+        "Investigated 1,5-pentanediol as an oxygen precursor for the ALD of ZnO thin films",
+        "Coursework in semiconductor device fundamentals and instrumental analysis"
       ]
     },
     {
@@ -101,7 +102,7 @@
       "endDate": "2014-01-01",
       "score": "",
       "courses": [],
-      "highlights": ["Coursework in semiconductor device fundamentals and instrumental analysis"]
+      "highlights": ["Working as an undergraduate research assistant"]
     }
   ],
   "awards": [
@@ -117,12 +118,6 @@
       "awarder": "ASM",
       "summary": "Fully supported Mo JDP tool to solve the HW & Process problems"
     },
-    {
-      "title": "Patent Grant (KR 10-2291246)",
-      "date": "2021-08-01",
-      "awarder": "Korean Intellectual Property Office",
-      "summary": "Granted patent for portable aerosol-forming device technology."
-    }
   ],
   "certificates": [],
   "publications": [
@@ -211,6 +206,28 @@
       ],
       "startDate": "2015-01-01",
       "endDate": "2017-01-01"
+    }
+  ],
+  "relavant coursework": [
+    {
+      "name": "Thin Film Engineering (2015)",
+      "highlights": ["Vacuum deposition techniques, structure, properties, and applications of thin films."]
+    },
+    {  
+      "name": "Characterization of Organic Nano Thin Film (2014)",
+      "highlights": ["Analytical methods for organic materials and thin films, including vacuum coating techniques."]
+    },
+    {
+      "name": "Engineering of Semiconductor Devices (2014)",
+      "highlights": ["Semiconductor physics, device operating principles, and fabrication processes."]
+    }
+    {
+      "name": "Advanced Instrumental Analyses (2014)",
+      "highlights": ["Principles of analytical methods, sample preparation, and data interpretation."]
+    }
+    {
+      "name": "Solid State Chemistry (2013)",
+      "highlights": ["Crystal structure, atomic bonding, crystal defects, phase diagrams, and synthesis."]
     }
   ]
 }
